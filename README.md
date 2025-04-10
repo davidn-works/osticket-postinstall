@@ -33,7 +33,7 @@ The majority of necessary configurations are accessible from one central area. T
 <br />
 
 <p>
-<img width="886" alt="screenshot1 - Copy" src="https://github.com/user-attachments/assets/d9467061-a4f5-452e-b0a2-114b2d3f6896" />
+<img width="886" alt="screenshot1 - Copy" src="https://github.com/user-attachments/assets/2e59c527-3a3d-4b2d-82e2-d665a15662a7" />
 </p>
 <p>
 We will now create a new role named "Supreme Admin". This role is designed to provide broad permissions, giving an administrator significant flexibility to execute and alter various system functions.
@@ -47,7 +47,7 @@ We will now create a new role named "Supreme Admin". This role is designed to pr
 <br />
 
 <p>
-<img width="668" alt="screenshot2 - Copy" src="https://github.com/user-attachments/assets/ecda4bb1-8a68-43a5-a888-48b6230e3814" />
+<img width="668" alt="screenshot2 - Copy" src="https://github.com/user-attachments/assets/aeb64305-da91-4606-aa50-1b2cb5d3672c" />
 </p>
 <p>
   To establish a new department called "System Administrators," adhere to the following instructions:
@@ -63,7 +63,7 @@ We will now create a new role named "Supreme Admin". This role is designed to pr
 <br />
 
 <p>
-<img width="874" alt="screenshot3 - Copy" src="https://github.com/user-attachments/assets/6febb3dd-7a5a-436a-9f9f-f9bdb33ced3a" />
+<img width="874" alt="screenshot3 - Copy" src="https://github.com/user-attachments/assets/e9fdd1d7-794b-4613-a1af-f207dc341bf1" />
 </p>
 <p>Accessing Service Level Agreements (SLAs) and Help Topics.
 
@@ -90,7 +90,7 @@ To establish Help Topics, follow this procedure:
 <br />
 
 <p>
-<img width="842" alt="screenshot4 - Copy" src="https://github.com/user-attachments/assets/37a659e8-0057-4f5a-8dfc-63f51da6171f" />
+<img width="842" alt="screenshot4 - Copy" src="https://github.com/user-attachments/assets/2faeee34-c533-4a15-b1e5-405cc075bc29" />
 </p>
 <p>
 Excellent! Now, let's configure some Users (representing customers) by following these instructions:
@@ -104,7 +104,7 @@ Excellent! Now, let's configure some Users (representing customers) by following
 - Save the profiles to add Karen and Kevin as Users in the system.
 
 <p>
-<img width="666" alt="screenshot5 - Copy" src="https://github.com/user-attachments/assets/ad7fec42-0ea2-41fa-baaa-465d1e9d3ac9" />
+<img width="666" alt="screenshot5 - Copy" src="https://github.com/user-attachments/assets/c1b199b1-6d70-411c-bfd6-7d29357d9112" />
 </p>
 <p>
 Since the process for creating these elements is now familiar, we can use a comparable method to establish Teams and Agents. Follow these instructions:
